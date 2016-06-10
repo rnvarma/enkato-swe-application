@@ -43,9 +43,17 @@ First, setup a python virtualenv (<code>pip install virtualenv</code>) with the 
 
 <code>virtualenv name_of_project</code>
 
-Then go into the environment and activate it with the following command (for macs, pcs are something else):
+Then go into the environment and activate it with the following command (MACS):
 
 <code>source bin/activate</code>
+
+(PC):
+
+<code>cd Scripts/</code>
+
+<code>activate</code>
+
+<code>cd ..</code>
 
 Now clone the repository into your virtualenv:
 
