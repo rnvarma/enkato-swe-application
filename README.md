@@ -19,7 +19,9 @@ You are provided with a base django-backend/react-frontend application that alre
 
 <h2>Expectations</h2>
 
-This is an extremely open ended project so there is no correct or incorrect way to do this. This project will be used to give us insight into three main things: 
+This is an extremely open ended project so there is no correct or incorrect way to do this. Additionally, this will probably be challenging if you don't have experience with these technologies. Just do your best and don't spend more than 3 - 4 hours. We just want to see how you go about getting started and designing the feature. 
+
+This project will be used to give us insight into three main things:
 
 1. Your thought process around the design and how you think about online education
 2. Your ability to develop within an existing infrastructure 
