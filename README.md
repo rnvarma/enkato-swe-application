@@ -1,8 +1,12 @@
 <h1>Youniversity SWE Intern Application</h1>
 
+<h2>Motivation</h2>
+
 Youniversity’s mission is to enhance the quality of online videos by creating a better experience for students to watch the videos in. When creating an online education platform, it is a mix of designing features that can only be done in an online setting, while also pulling some of the techniques that are tried and tested in classic in-person educational settings.
 
-One feature that will be a part of our video watching experience is the ability to ask questions while watching the video. This is because while students learning in a class, questions are used to clarify misunderstandings that may occur at any point during the lecture. Additionally, students often learn a lot from hearing other questions that students may have. However, current online videos do not support easy ways to clarify understanding during the video and instead are usually watched through to completion before questions are asked.
+One feature that will be a part of our video watching experience is the ability to ask questions while watching the video. This is because while students are learning in a class, questions are used to clarify misunderstandings that may occur at any point during the lecture. Additionally, students often learn a lot from hearing other questions that students may have. However, current online videos do not support easy ways to clarify understanding during the video and instead are usually watched through to completion before questions are asked.
+
+<h2>Project Specs</h2>
 
 For this project we would like you to design and implement a system for asking questions within educational videos. The system should have the following functionality:
 
@@ -13,13 +17,15 @@ For this project we would like you to design and implement a system for asking q
 
 You are provided with a base django-backend/react-frontend application that already allows users to embed Youtube videos and index them by topics. You should implement your question-asking functionality within the existing framework. The database is a local sqlite DB and the models for questions are already defined in backend/models.py. You may modify these as you see fit. Note: for simplicity we have excluded user login functionality so everything will be done anonymously. There is a field in the question/response table for “name” which you may include as part of the form to ask/respond to questions.
 
+<h2>Expectations</h2>
+
 This is an extremely open ended project so there is no correct or incorrect way to do this. This project will be used to give us insight into three main things: 
 
-1. your thought process around the design and how you think about online education
-2. your ability to develop within an existing infrastructure 
-3. your ability to problem-solve on your own and utilize resources to figure out technologies/methodologies that you may not have experience with already.
+1. Your thought process around the design and how you think about online education
+2. Your ability to develop within an existing infrastructure 
+3. Your ability to problem-solve on your own and utilize resources to figure out technologies/methodologies that you may not have experience with already.
 
-Additionally, don’t worry too much about the visual design. Focus on functionality and the user experience (i.e. how they interact and flow through the question-answering). 
+Just to be clear, don't worry if you don't finish and/or things are slightly broken. We just want to see what your thought process is and we'll talk more about that during the in-person interview. Just do your best and don't stress about it :) Additionally, don’t worry too much about the visual design. Focus on functionality and the user experience (i.e. how they interact and flow through the question-answering). 
 
 <h2>Additional Resources</h2>
 
