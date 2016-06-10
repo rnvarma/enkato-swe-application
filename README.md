@@ -35,6 +35,8 @@ The following links are resources that you may find helpful to understanding the
 * Django docs: https://docs.djangoproject.com/en/1.9/
 * Youtube Javascript API docs: https://developers.google.com/youtube/iframe_api_reference
 
+<h1>Getting Started</h1>
+
 <h2>Setup environment</h2>
 
 First, setup a python virtualenv (<code>pip install virtualenv</code>) with the following command:
