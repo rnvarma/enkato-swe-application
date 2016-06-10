@@ -3,6 +3,12 @@ from django.views.generic.base import View
 from django.http import HttpResponseRedirect
 from django.http import JsonResponse
 
+from backend.models import *
+
 class HomePage(View):
     def get(self, request):
         return render(request, 'index.html')
+
+class VideoPage(View):
+    def get(self, request, v_id):
+        return render(request, 'video.html', {'v_id': v_id})

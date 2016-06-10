@@ -1,0 +1,52 @@
+$grey: #F3F3F3;
+
+.videoPlayer {
+    display: inline-flex;
+    width: 100%;
+}
+
+.videoSideBar {
+    display: inline-block;
+    width: 30%;
+}
+
+.topicList {
+    height: 534px;
+}
+
+.newTopicForm {
+    height: 67px;
+    background-color: $grey;
+    padding: 21px;
+
+    .inputArea {
+
+    }
+}
+
+.videoArea {
+    display: inline-block;
+    width: 70%;
+}
+
+.topicButton {
+    background-color: white;
+    padding: 20px;
+    font-size: 18px;
+    border: 1px solid $grey;
+
+    &:hover {
+        background-color: $grey;
+        cursor: pointer;
+    }
+
+    .topicName {
+        display: inline-block;
+        width: 80%;
+    }
+
+    .topicTime {
+        display: inline-block;
+        width: 20%;
+    }
+}

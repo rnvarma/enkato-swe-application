@@ -4,4 +4,5 @@ from backend.models import *
 
 # Register your models here.
 
-admin.site.register(Comment)
+admin.site.register(Video)
+admin.site.register(Topic)

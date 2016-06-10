@@ -130,7 +130,6 @@ var CommentBox = React.createClass({
     },
     componentDidMount: function() {
         this.loadDataFromServer()
-        setInterval(this.loadDataFromServer, this.props.pollInterval)
     },
     render: function() {
         return (
@@ -144,7 +143,3 @@ var CommentBox = React.createClass({
 })
 
 ReactDOM.render(<CommentBox url="/1/allcomments" pollInterval={2000}/>, document.getElementById('react-app'))
-
-
-
-

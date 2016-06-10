@@ -6,7 +6,11 @@ var local_path = require('./mac-pc-compatability.js')
 module.exports = {
   context: __dirname,
 
-  entry: './assets/js/index', // entry point of our app. assets/js/index.js should require other js modules and dependencies it needs
+  // entry point of our app. assets/js/index.js should require other js modules and dependencies it needs
+  entry: {
+    home: './assets/js/home/main',
+    video: './assets/js/video/main'
+  },
 
   output: {
       path: path.resolve(local_path + '/assets/bundles/'),
