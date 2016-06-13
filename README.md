@@ -59,7 +59,7 @@ Then go into the environment and activate it with the following command (MACS):
 
 Now clone the repository into your virtualenv:
 
-<code>git clone https://github.com/rnvarma/BaseReactDjangoApp</code>
+<code>git clone https://github.com/rnvarma/youniversity-swe-application</code>
 
 Now change into the repository folder for the next steps.
 
@@ -89,7 +89,7 @@ Webpack cmd (MAC):
 
 Webpack cmd (PC): first change directories into node_modules/.bin/ and run the following
 
-<code>webpack --config ../../webpack-config.js --watch</code>
+<code>webpack --config ../../webpack.config.js --watch</code>
 
 Django cmd: 
 
