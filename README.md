@@ -1,8 +1,8 @@
-<h1>Youniversity SWE Intern Application</h1>
+<h1>Enkato SWE Intern Application</h1>
 
 <h2>Motivation</h2>
 
-Youniversity’s mission is to enhance the quality of online videos by creating a better experience for students to watch the videos in. When creating an online education platform, it is a mix of designing features that can only be done in an online setting, while also pulling some of the techniques that are tried and tested in classic in-person educational settings.
+Enkato’s mission is to enhance the quality of online videos by creating a better experience for students to watch the videos in. When creating an online education platform, it is a mix of designing features that can only be done in an online setting, while also pulling some of the techniques that are tried and tested in classic in-person educational settings.
 
 One feature that will be a part of our video watching experience is the ability to ask questions while watching the video. This is because while students are learning in a class, questions are used to clarify misunderstandings that may occur at any point during the lecture. Additionally, students often learn a lot from hearing other questions that students may have. However, current online videos do not support easy ways to clarify understanding during the video and instead are usually watched through to completion before questions are asked.
 
@@ -59,7 +59,7 @@ Then go into the environment and activate it with the following command (MACS):
 
 Now clone the repository into your virtualenv:
 
-<code>git clone https://github.com/rnvarma/youniversity-swe-application</code>
+<code>git clone https://github.com/rnvarma/enkato-swe-application</code>
 
 Now change into the repository folder for the next steps.
 
